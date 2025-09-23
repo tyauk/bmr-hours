@@ -1,0 +1,168 @@
+* {
+	font-family: sans-serif;
+}
+
+@font-face {
+	font-family: 'berlingske';
+	src: url('BerlingskeSerifTx-Black.woff2') format('woff2');
+}
+
+@font-face{
+	font-family: "brandon-grotesque", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+} 
+
+.title-padding{
+	padding-bottom: 50px;
+}
+
+.hours-wrap{
+	display: flex;
+  	justify-content: center; /* Centers horizontally */
+}
+
+#control-section{
+	width: 85%;
+	max-width: 1210px;
+	padding-top: 100px;
+}
+
+#hours{
+	display: block;
+	width: 85%;
+	max-width: 1125px;
+	padding:50px;
+	background: white;
+	filter: drop-shadow(0 0 0.75rem rgba(0,0,0,0.1));
+	text-align: center;
+	border-radius: 20px;
+}
+
+.date-title{
+	font-family: 'berlingske';
+	font-size: 3em;
+	line-height: 1;
+	color: #333638;
+}
+
+.date-picker-button{
+	display:inline-block;
+	position: relative;
+	padding: 15px 10px 15px 0px;
+	top: 2px;
+	font-size: 1.35em;
+	font-weight: bold;
+}
+
+.menu-wrap{
+	padding-top: 50px;
+}
+
+.menu-item-wrapper{
+	display:inline-block;
+	width:25%;
+	text-align: center;
+}
+
+@media screen and (min-width: 731px){
+	.menu-item-wrapper{
+		width: 25%;
+	}
+}
+
+@media screen and (max-width: 730px){
+	.menu-item-wrapper{
+		width: 100%;
+		padding: 10px 0px;
+	}
+}
+
+.menu-item{
+	display: inline-block;
+	width: 95%;
+	padding: 25px 0px;
+	background: #fff;
+	border: solid 3px #0076a2;
+	border-radius: 10px;
+	cursor: pointer;
+	font-family: 'brandon-grotesque';
+	font-size: 1.1em;
+	text-transform: uppercase;
+	color: #0076a2;
+	filter: drop-shadow(0 0 0.75rem rgba(0,0,0,0));
+}
+
+.selected .menu-item{
+	background: #0076a2;
+	color: #fff;
+}
+
+.menu-item:hover{
+	background: #0076a2;
+	color: #fff;
+	filter: drop-shadow(0 0 0.75rem rgba(0,0,0,0.2));
+}
+
+.hours-wrapper{
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	padding-bottom: 50px;
+	transform: scale(1.0);
+	transition: 0.5s;
+	cursor: pointer;
+}
+
+@media screen and (min-width: 1039px){
+	.hours-wrapper{
+		width: 33%;
+	}
+}
+
+@media screen and (max-width: 1038px){
+	.hours-wrapper{
+		width: 100%;
+	}
+}
+
+
+.hours-wrapper:hover{
+	transform: scale(1.05);
+}
+
+.hours-wrapper .image{
+	display: inline-block;
+	position: relative;
+	width: 80%;
+	aspect-ratio: 4/3;
+	object-fit: cover;
+	border-radius: 15px 15px 0px 0px;
+	filter: drop-shadow(0 0 0.75rem rgba(0,0,0,0.1));
+}
+
+.hours-wrapper .content{
+	display: inline-block;
+	position: relative;
+	width: 80%;
+	top: 0px;
+	padding: 30px 0px 50px 0px;
+	background: white;
+	border-radius: 0px 0px 15px 15px;
+	filter: drop-shadow(0 0 0.75rem rgba(0,0,0,0.1));
+}
+
+.hours-wrapper .title{
+	display:block;
+	padding-bottom: 7px;
+}
+
+.hours-wrapper .hours-text{
+	display: inline-block;
+	font-size: 1.225em;
+	font-weight: bold;
+}
+
+#dining-hours-container, #guest-services-hours-container, #shopping-hours-container{
+	display: none;
+}
