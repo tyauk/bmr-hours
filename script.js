@@ -327,19 +327,19 @@ function populateAttractionHours(obj) {
                         const attractionWrap = document.createElement('div');
                         attractionWrap.classList.add('hours-wrapper');
                         if(day_of_the_week == 0){
-                                attractionWrap.innerHTML = "<img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.sunday + "</span></span>";
+                                attractionWrap.innerHTML = "<a href='" + obj[i].page_url + "'><img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.sunday + "</span></span></a>";
                         }else if(day_of_the_week == 1){
-                                attractionWrap.innerHTML = "<img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.monday + "</span></span>";
+                                attractionWrap.innerHTML = "<a href='" + obj[i].page_url + "'><img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.monday + "</span></span></a>";
                         }else if(day_of_the_week == 2){
-                                attractionWrap.innerHTML = "<img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.tuesday + "</span></span>";
+                                attractionWrap.innerHTML = "<a href='" + obj[i].page_url + "'><img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.tuesday + "</span></span></a>";
                         }else if(day_of_the_week == 3){
-                                attractionWrap.innerHTML = "<img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.wednesday + "</span></span>";
+                                attractionWrap.innerHTML = "<a href='" + obj[i].page_url + "'><img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.wednesday + "</span></span></a>";
                         }else if(day_of_the_week == 4){
-                                attractionWrap.innerHTML = "<img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.thursday + "</span></span>";
+                                attractionWrap.innerHTML = "<a href='" + obj[i].page_url + "'><img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.thursday + "</span></span></a>";
                         }else if(day_of_the_week == 5){
-                                attractionWrap.innerHTML = "<img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.friday + "</span></span>";
+                                attractionWrap.innerHTML = "<a href='" + obj[i].page_url + "'><img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.friday + "</span></span></a>";
                         }else if(day_of_the_week == 6){
-                                attractionWrap.innerHTML = "<img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.saturday + "</span></span>";
+                                attractionWrap.innerHTML = "<a href='" + obj[i].page_url + "'><img src='" + obj[i].image_url + "' class='image'><span class='content'><span class='title'>" + obj[i].name + "</span><span class='hours-text'>" + obj[i].hours.saturday + "</span></span></a>";
                         }
                         document.getElementById("attraction-hours-container").appendChild(attractionWrap);
                 }
