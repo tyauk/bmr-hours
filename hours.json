@@ -1,0 +1,624 @@
+{
+	"points_of_interest": [
+		
+		{
+			"name": "Skiing And Snowboarding",
+			"poi_type": "attraction",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/things-to-do/attractions/ski-and-snowboard/bmr_fy23_attraction_web_hero_skisnowboard.png",
+			"page_url": "https://www.bluemountain.ca/things-to-do/skiing-and-snowboard",
+			"hours":{
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM"
+			}
+		},
+
+		{
+			"name": "Ridge Runner Mountain Coaster",
+			"poi_type": "attraction",
+			"start_date": "0101",
+			"end_date": "0322",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/things-to-do/attractions/ridgerunner/bmr_fy23_attraction_web_hero_ridgerunner-winter.png",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/ridge-runner-coaster",
+			"hours":{
+				"monday": "12PM - 8PM",
+				"tuesday": "12PM - 8PM",
+				"wednesday": "12PM - 8PM",
+				"thursday": "12PM - 8PM",
+				"friday": "12PM - 8PM",
+				"saturday": "12PM - 8PM",
+				"sunday": "12PM - 8PM"
+			}
+		},
+
+		{
+			"name": "Plunge! Aquatic Centre",
+			"poi_type": "attraction",
+			"start_date": "0105",
+			"end_date": "0117",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/c0928a897c5d44208f7560a97365b815?v=55fa6451",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/plunge-aquatic-centre",
+			"hours":{
+				"monday": "10AM - 5PM",
+				"tuesday": "4PM - 8PM",
+				"wednesday": "4PM - 8PM",
+				"thursday": "4PM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM"
+			}
+		},
+
+		{
+			"name": "Plunge! Aquatic Centre",
+			"poi_type": "attraction",
+			"start_date": "0118",
+			"end_date": "0118",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/c0928a897c5d44208f7560a97365b815?v=55fa6451",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/plunge-aquatic-centre",
+			"hours":{
+				"sunday": "10AM - 5PM"
+			}
+		},
+
+		{
+			"name": "Plunge! Aquatic Centre",
+			"poi_type": "attraction",
+			"start_date": "0119",
+			"end_date": "0301",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/c0928a897c5d44208f7560a97365b815?v=55fa6451",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/plunge-aquatic-centre",
+			"hours":{
+				"monday": "10AM - 5PM",
+				"tuesday": "4PM - 8PM",
+				"wednesday": "4PM - 8PM",
+				"thursday": "4PM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM"
+			}
+		},
+
+		{
+			"name": "Canopy Climb Net Adventure",
+			"poi_type": "attraction",
+			"start_date": "0105",
+			"end_date": "0301",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/2023-12-21-blue-mountain-canopy-climb-20.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/canopy-climb",
+			"hours":{
+				"monday": "12PM - 8PM",
+				"tuesday": "12PM - 8PM",
+				"wednesday": "12PM - 8PM",
+				"thursday": "12PM - 8PM",
+				"friday": "12PM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM"
+			}
+		},
+
+		{
+			"name": "Big Dipper Snow Tubing",
+			"poi_type": "attraction",
+			"start_date": "0112",
+			"end_date": "0114",
+			"status": "closed_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/2023-01-19-blue-mountain-hike-n-tube-20.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/big-dipper-snow-tubing",
+			"hours":{
+				"monday": "CLOSED",
+				"tuesday": "CLOSED",
+				"wednesday": "CLOSED",
+				"thursday": "CLOSED",
+				"friday": "CLOSED",
+				"saturday": "CLOSED",
+				"sunday": "CLOSED"
+			}
+		},
+
+		{
+			"name": "Big Dipper Snow Tubing",
+			"poi_type": "attraction",
+			"start_date": "0115",
+			"end_date": "0117",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/2023-01-19-blue-mountain-hike-n-tube-20.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/big-dipper-snow-tubing",
+			"hours":{
+				"monday": "12PM - 8PM",
+				"tuesday": "12PM - 8PM",
+				"wednesday": "12PM - 8PM",
+				"thursday": "12PM - 8PM",
+				"friday": "12PM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM"
+			}
+		},
+
+		{
+			"name": "Big Dipper Snow Tubing",
+			"poi_type": "attraction",
+			"start_date": "0118",
+			"end_date": "0118",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/2023-01-19-blue-mountain-hike-n-tube-20.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/big-dipper-snow-tubing",
+			"hours":{
+				"sunday": "2PM - 8PM"
+			}
+		},
+
+		{
+			"name": "Big Dipper Snow Tubing",
+			"poi_type": "attraction",
+			"start_date": "0119",
+			"end_date": "0301",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/2023-01-19-blue-mountain-hike-n-tube-20.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/big-dipper-snow-tubing",
+			"hours":{
+				"monday": "12PM - 8PM",
+				"tuesday": "12PM - 8PM",
+				"wednesday": "12PM - 8PM",
+				"thursday": "12PM - 8PM",
+				"friday": "12PM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM"
+			}
+		},
+
+		{
+			"name": "Woodview Mountaintop Skating",
+			"poi_type": "attraction",
+			"start_date": "0105",
+			"end_date": "0301",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/things-to-do/attractions/woodview-skating/bmr_fy23_attraction_web_hero_woodview.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/woodview-mountaintop-skating",
+			"hours":{
+				"monday": "12PM - 8PM",
+				"tuesday": "12PM - 8PM",
+				"wednesday": "12PM - 8PM",
+				"thursday": "12PM - 8PM",
+				"friday": "12PM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM"
+			}
+		},
+
+		{
+			"name": "Snowshoeing",
+			"poi_type": "attraction",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/things-to-do/attractions/snowshoeing/bmr_fy23_attraction_web_hero_snowshoe_access.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/snowshoe",
+			"hours":{
+				"monday": "8:30AM - 4PM",
+				"tuesday": "8:30AM - 4PM",
+				"wednesday": "8:30AM - 4PM",
+				"thursday": "8:30AM - 4PM",
+				"friday": "8:30AM - 4PM",
+				"saturday": "8:30AM - 4PM",
+				"sunday": "8:30AM - 4PM"
+			}
+		},
+
+		{
+			"name": "Activity Central",
+			"subtitle": "Rentals & Guest Services",
+			"poi_type": "guest_services",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/custom/activity-central-winter.jpg",
+			"page_url": "#",
+			"hours":{
+				"monday": "8:30AM - 9PM",
+				"tuesday": "8:30AM - 9PM",
+				"wednesday": "8:30AM - 9PM",
+				"thursday": "8:30AM - 9PM",
+				"friday": "8:30AM - 9PM",
+				"saturday": "8:30AM - 9PM",
+				"sunday": "8:30AM - 9PM"
+			}
+		},
+
+		{
+			"name": "South Base Lodge",
+			"subtitle": "Guest Services",
+			"poi_type": "guest_services",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/fe1e24448a50414d85f46a257e880a97?v=31b525c8",
+			"page_url": "#",
+			"hours":{
+				"monday": "8:30AM - 5PM",
+				"tuesday": "8:30AM - 5PM",
+				"wednesday": "8:30AM - 5PM",
+				"thursday": "8:30AM - 5PM",
+				"friday": "8:30AM - 9PM",
+				"saturday": "8:30AM - 9PM",
+				"sunday": "8:30AM - 9PM"
+			}
+		},
+
+		{
+			"name": "South Base Lodge",
+			"subtitle": "Rentals",
+			"poi_type": "guest_services",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/fe1e24448a50414d85f46a257e880a97?v=31b525c8",
+			"page_url": "#",
+			"hours":{
+				"monday": "CLOSED",
+				"tuesday": "CLOSED",
+				"wednesday": "CLOSED",
+				"thursday": "CLOSED",
+				"friday": "8:30AM - 9PM",
+				"saturday": "8:30AM - 9PM",
+				"sunday": "8:30AM - 9PM"
+			}
+		},
+
+		{
+			"name": "The Pottery Alpine Restaurant: Brunch",
+			"poi_type": "dining",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/things-to-do/eateries/pottery/bmr-pottery-151.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/the-pottery-restaurant",
+			"hours":{
+				"monday": "7:30AM - 12PM",
+				"tuesday": "7:30AM - 12PM",
+				"wednesday": "7:30AM - 12PM",
+				"thursday": "7:30AM - 12PM",
+				"friday": "7:30AM - 12PM",
+				"saturday": "7:30AM - 12PM",
+				"sunday": "7:30AM - 12PM"
+			}
+		},
+
+		{
+			"name": "The Pottery Alpine Restaurant: Dinner",
+			"poi_type": "dining",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/2023-blue-mountain-pottery-menu-19.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/the-pottery-restaurant",
+			"hours":{
+				"monday": "5PM - 9PM",
+				"tuesday": "5PM - 9PM",
+				"wednesday": "5PM - 9PM",
+				"thursday": "5PM - 9PM",
+				"friday": "5PM - 9PM",
+				"saturday": "5PM - 9PM",
+				"sunday": "5PM - 9PM"
+			}
+		},
+
+		{
+			"name": "Jozo's Bar",
+			"poi_type": "dining",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/widen/blue-mountain-resort/bm-restaurants-and-food/jozos/2020-10-20-bm-jozos-0017-jpg.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/the-pottery-restaurant",
+			"hours":{
+				"monday": "11AM - 10PM",
+				"tuesday": "11AM - 10PM",
+				"wednesday": "11AM - 10PM",
+				"thursday": "11AM - 10PM",
+				"friday": "11AM - 11PM",
+				"saturday": "11AM - 11PM",
+				"sunday": "11AM - 10PM"
+			}
+		},
+
+		{
+			"name": "Death Cookies",
+			"poi_type": "dining",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/3d5b3880693449519f38c6b6f7cc0999?v=0563e943",
+			"page_url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/death-cookies",
+			"hours":{
+				"monday": "11AM - 10PM",
+				"tuesday": "11AM - 10PM",
+				"wednesday": "11AM - 10PM",
+				"thursday": "11AM - 10PM",
+				"friday": "11AM - 10PM",
+				"saturday": "11AM - 10PM",
+				"sunday": "11AM - 10PM"
+			}
+		},
+
+		{
+			"name": "Grand Central Eatery",
+			"poi_type": "dining",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/99cb03c89cd1468f85537d5097935144?v=8e4ef9e1",
+			"page_url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/grand-central-eatery",
+			"hours":{
+				"monday": "8AM - 9PM",
+				"tuesday": "8AM - 9PM",
+				"wednesday": "8AM - 9PM",
+				"thursday": "8AM - 9PM",
+				"friday": "8AM - 9PM",
+				"saturday": "8AM - 9PM",
+				"sunday": "8AM - 9PM"
+			}
+		},
+
+		{
+			"name": "Off-Piste Après Garden",
+			"poi_type": "dining",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/a1f8f6830abe42c69bd8a969a3e1bfb9?v=0c1785ba",
+			"page_url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/off-piste-apres-garden",
+			"hours":{
+				"monday": "CLOSED",
+				"tuesday": "CLOSED",
+				"wednesday": "CLOSED",
+				"thursday": "CLOSED",
+				"friday": "CLOSED",
+				"saturday": "12PM - 5PM",
+				"sunday": "12PM - 5PM"
+			}
+		},
+
+		{
+			"name": "Bullwheel Pub",
+			"poi_type": "dining",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/4585eb061ffc4b50ad0eed1edc781a85?v=6f4af739",
+			"page_url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/bullwheel-pub",
+			"hours":{
+				"monday": "11AM - 9PM",
+				"tuesday": "11AM - 9PM",
+				"wednesday": "11AM - 9PM",
+				"thursday": "11AM - 9PM",
+				"friday": "11AM - 9PM",
+				"saturday": "11AM - 9PM",
+				"sunday": "11AM - 9PM"
+			}
+		},
+
+		{
+			"name": "1858 Ceasar Bar",
+			"poi_type": "dining",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/f7b7f99441e048d394aa4b71e31abc87?v=9ec8e51f",
+			"page_url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/1858",
+			"hours":{
+				"monday": "11AM - 8:30PM",
+				"tuesday": "11AM - 8:30PM",
+				"wednesday": "11AM - 8:30PM",
+				"thursday": "11AM - 8:30PM",
+				"friday": "11AM - 8:30PM",
+				"saturday": "11AM - 8:30PM",
+				"sunday": "11AM - 8:30PM"
+			}
+		},
+
+		{
+			"name": "South Base Eatery",
+			"poi_type": "dining",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/366c424d0b114ab29b6a0f94561149c8?v=87d86e1e",
+			"page_url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/south-base-eatery",
+			"hours":{
+				"monday": "8AM - 5PM",
+				"tuesday": "8AM - 5PM",
+				"wednesday": "8AM - 5PM",
+				"thursday": "8AM - 5PM",
+				"friday": "8AM - 5PM",
+				"saturday": "8AM - 5PM",
+				"sunday": "8AM - 5PM"
+			}
+		},
+
+		{
+			"name": "The Inn Eatery",
+			"poi_type": "dining",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/09d091d37ae0454f9aaec6af3f94fe31?v=0cde3a66",
+			"page_url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/inn-eatery",
+			"hours":{
+				"monday": "8AM - 5PM",
+				"tuesday": "8AM - 5PM",
+				"wednesday": "8AM - 5PM",
+				"thursday": "8AM - 5PM",
+				"friday": "8AM - 5PM",
+				"saturday": "8AM - 5PM",
+				"sunday": "8AM - 5PM"
+			}
+		},
+
+		{
+			"name": "Starbucks Coffee Co.",
+			"poi_type": "dining",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/1bbab0c8cad8461fa3b70596bbcc64c7?v=aa8193fd",
+			"page_url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/starbucks-coffee-company",
+			"hours":{
+				"monday": "7:30AM - 7:30PM",
+				"tuesday": "7:30AM - 7:30PM",
+				"wednesday": "7:30AM - 7:30PM",
+				"thursday": "7:30AM - 7:30PM",
+				"friday": "7:30AM - 9PM",
+				"saturday": "7:30AM - 9PM",
+				"sunday": "7:30AM - 7:30PM"
+			}
+		},
+
+		{
+			"name": "Reserve Lounge",
+			"poi_type": "dining",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/38f27322eb0b427992e5f5271e25918c?v=5b812db5",
+			"page_url": "https://www.bluemountain.ca/blue-mountain-reserve-daily",
+			"hours":{
+				"monday": "CLOSED",
+				"tuesday": "CLOSED",
+				"wednesday": "CLOSED",
+				"thursday": "CLOSED",
+				"friday": "8AM - 9PM",
+				"saturday": "8AM - 9PM",
+				"sunday": "8AM - 9PM"
+			}
+		},
+
+		{
+			"name": "Red Devil Sports",
+			"poi_type": "shopping",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/things-to-do/retail/2022_red_devil_blue_mountain.jpeg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/shopping/red-devil-sports",
+			"hours":{
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM"
+			}
+		},
+
+		{
+			"name": "Burton",
+			"poi_type": "shopping",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/widen/blue-mountain-resort/village-vendors/2021_12_13_bm_burton_image_7.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/shopping/burton",
+			"hours":{
+				"monday": "10AM - 9PM",
+				"tuesday": "10AM - 9PM",
+				"wednesday": "10AM - 9PM",
+				"thursday": "10AM - 9PM",
+				"friday": "10AM - 9PM",
+				"saturday": "10AM - 9PM",
+				"sunday": "10AM - 9PM"
+			}
+		},
+
+		{
+			"name": "Blue Mountain Supply Co.",
+			"poi_type": "shopping",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/things-to-do/retail/202101_bluemountainsupplyco_shopping.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/shopping/blue-mountain-supply-co",
+			"hours":{
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM"
+			}
+		},
+
+		{
+			"name": "The North Face",
+			"poi_type": "shopping",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/image-slider-2400x1350/shopping/shopping_thenorthface_summer2020_2400x1350.jpg",
+			"page_url": "https://www.thenorthface.com/en-ca",
+			"hours":{
+				"monday": "10AM - 9PM",
+				"tuesday": "10AM - 9PM",
+				"wednesday": "10AM - 9PM",
+				"thursday": "10AM - 9PM",
+				"friday": "10AM - 9PM",
+				"saturday": "10AM - 9PM",
+				"sunday": "10AM - 9PM"
+			}
+		},
+
+		{
+			"name": "Blue Basin",
+			"poi_type": "shopping",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/retail/blue-basin/bmr-fy25-blue-basin-hero.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/shopping/blue-basin",
+			"hours":{
+				"monday": "10AM - 9PM",
+				"tuesday": "10AM - 9PM",
+				"wednesday": "10AM - 9PM",
+				"thursday": "10AM - 9PM",
+				"friday": "10AM - 9PM",
+				"saturday": "10AM - 9PM",
+				"sunday": "10AM - 9PM"
+			}
+		},
+
+		{
+			"name": "The Repair Shop",
+			"poi_type": "shopping",
+			"start_date": "0101",
+			"end_date": "0401",
+			"status": "open_daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/image-slider-2400x1350/attractions-and-activities/mountain-biking/bike_repair_2400x1350.jpg",
+			"page_url": "https://www.bluemountain.ca/plan-your-trip/rentals/winter-repairs",
+			"hours":{
+				"monday": "9AM - 5PM",
+				"tuesday": "9AM - 5PM",
+				"wednesday": "9AM - 5PM",
+				"thursday": "9AM - 5PM",
+				"friday": "9AM - 5PM",
+				"saturday": "9AM - 5PM",
+				"sunday": "9AM - 5PM"
+			}
+		}
+	
+	]
+	
+}	
