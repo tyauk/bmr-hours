@@ -1,0 +1,56 @@
+{
+    "hours": [
+        {
+            "start": "0105",
+            "end": "0313",
+            "hours": {
+                "monday": "10AM - 5PM",
+                "tuesday": "4PM - 8PM",
+                "wednesday": "4PM - 8PM",
+                "thursday": "4PM - 8PM",
+                "friday": "10AM - 8PM",
+                "saturday": "10AM - 8PM",
+                "sunday": "10AM - 8PM"
+            }
+        },
+        {
+            "start": "0314",
+            "end": "0322",
+            "hours": {
+                "monday": "12PM - 8PM",
+                "tuesday": "12PM - 8PM",
+                "wednesday": "12PM - 8PM",
+                "thursday": "12PM - 8PM",
+                "friday": "12PM - 8PM",
+                "saturday": "12PM - 8PM",
+                "sunday": "12PM - 8PM"
+            }
+        },
+        {
+            "start": "0323",
+            "end": "0329",
+            "hours": {
+                "monday": "10AM - 5PM",
+                "tuesday": "CLOSED",
+                "wednesday": "CLOSED",
+                "thursday": "4PM - 8PM",
+                "friday": "10AM - 6PM",
+                "saturday": "10AM - 6PM",
+                "sunday": "10AM - 6PM"
+            }
+        },
+        {
+            "start": "0330",
+            "end": "0625",
+            "hours": {
+                "monday": "CLOSED",
+                "tuesday": "CLOSED",
+                "wednesday": "CLOSED",
+                "thursday": "CLOSED",
+                "friday": "10AM - 6PM",
+                "saturday": "10AM - 6PM",
+                "sunday": "10AM - 6PM"
+            }
+        }
+    ]
+}
