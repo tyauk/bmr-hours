@@ -1,0 +1,410 @@
+{
+	"attractions": [
+		{
+			"attractionID": "1",
+			"start": "0522",
+			"end": "0625",
+			"hours": {
+				"monday": "10AM - 6PM",
+				"tuesday": "10AM - 6PM",
+				"wednesday": "10AM - 6PM",
+				"thursday": "10AM - 6PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 6PM",
+			}
+		},
+		{
+			"attractionID": "1",
+			"start": "0626",
+			"end": "0815",
+			"hours": {
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM",
+			}
+		},
+		{
+			"attractionID": "2",
+			"start": "0501",
+			"end": "0625",
+			"hours": {
+				"monday": "CLOSED",
+				"tuesday": "CLOSED",
+				"wednesday": "CLOSED",
+				"thursday": "CLOSED",
+				"friday": "CLOSED",
+				"saturday": "CLOSED",
+				"sunday": "CLOSED",
+			}
+		},
+		{
+			"attractionID": "2",
+			"start": "0626",
+			"end": "0907",
+			"hours": {
+				"monday": "10AM - 6PM",
+				"tuesday": "10AM - 6PM",
+				"wednesday": "10AM - 6PM",
+				"thursday": "10AM - 6PM",
+				"friday": "10AM - 6PM",
+				"saturday": "10AM - 6PM",
+				"sunday": "10AM - 6PM",
+			}
+		},
+		{
+			"attractionID": "3",
+			"start": "0522",
+			"end": "0625",
+			"hours": {
+				"monday": "10AM - 6PM",
+				"tuesday": "10AM - 6PM",
+				"wednesday": "10AM - 6PM",
+				"thursday": "10AM - 6PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 6PM",
+			}
+		},
+		{
+			"attractionID": "3",
+			"start": "0626",
+			"end": "0815",
+			"hours": {
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM",
+			}
+		},
+		{
+			"attractionID": "4",
+			"start": "0330",
+			"end": "0625",
+			"hours": {
+				"monday": "CLOSED",
+				"tuesday": "CLOSED",
+				"wednesday": "CLOSED",
+				"thursday": "CLOSED",
+				"friday": "10AM - 6PM",
+				"saturday": "10AM - 6PM",
+				"sunday": "10AM - 6PM",
+			}
+		},
+		{
+			"attractionID": "4",
+			"start": "0626",
+			"end": "0907",
+			"hours": {
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM",
+			}
+		},
+		{
+			"attractionID": "5",
+			"start": "0522",
+			"end": "0625",
+			"hours": {
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM",
+			}
+		},
+		{
+			"attractionID": "5",
+			"start": "0626",
+			"end": "0815",
+			"hours": {
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM",
+			}
+		},
+		{
+			"attractionID": "6",
+			"start": "0522",
+			"end": "0625",
+			"hours": {
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM",
+			}
+		},
+		{
+			"attractionID": "6",
+			"start": "0626",
+			"end": "0815",
+			"hours": {
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM",
+			}
+		},
+		{
+			"attractionID": "7",
+			"start": "0522",
+			"end": "0625",
+			"hours": {
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM",
+			}
+		},
+		{
+			"attractionID": "7",
+			"start": "0626",
+			"end": "0815",
+			"hours": {
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM",
+			}
+		},
+		{
+			"attractionID": "8",
+			"start": "0522",
+			"end": "0625",
+			"hours": {
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM",
+			}
+		},
+		{
+			"attractionID": "8",
+			"start": "0626",
+			"end": "0815",
+			"hours": {
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM",
+			}
+		},
+		{
+			"attractionID": "9",
+			"start": "0522",
+			"end": "0625",
+			"hours": {
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM",
+			}
+		},
+		{
+			"attractionID": "9",
+			"start": "0626",
+			"end": "0815",
+			"hours": {
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM",
+			}
+		},
+		{
+			"attractionID": "10",
+			"start": "0522",
+			"end": "0625",
+			"hours": {
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM",
+			}
+		},
+		{
+			"attractionID": "10",
+			"start": "0626",
+			"end": "0815",
+			"hours": {
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM",
+			}
+		},
+		{
+			"attractionID": "11",
+			"start": "0522",
+			"end": "0625",
+			"hours": {
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM",
+			}
+		},
+		{
+			"attractionID": "11",
+			"start": "0626",
+			"end": "0815",
+			"hours": {
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM",
+			}
+		},
+		{
+			"attractionID": "13",
+			"start": "0522",
+			"end": "0625",
+			"hours": {
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM",
+			}
+		},
+		{
+			"attractionID": "13",
+			"start": "0626",
+			"end": "0815",
+			"hours": {
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM",
+			}
+		},
+		{
+			"attractionID": "14",
+			"start": "0522",
+			"end": "0625",
+			"hours": {
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM",
+			}
+		},
+		{
+			"attractionID": "14",
+			"start": "0626",
+			"end": "0815",
+			"hours": {
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM",
+			}
+		},
+		{
+			"attractionID": "15",
+			"start": "0522",
+			"end": "0907",
+			"hours": {
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM",
+			}
+		},
+		{
+			"attractionID": "16",
+			"start": "0515",
+			"end": "0531",
+			"hours": {
+				"monday": "7:30AM - 5PM",
+				"tuesday": "7:30AM - 5PM",
+				"wednesday": "7:30AM - 5PM",
+				"thursday": "7:30AM - 5PM",
+				"friday": "7:30AM - 5PM",
+				"saturday": "7:30AM - 5PM",
+				"sunday": "7:30AM - 5PM",
+			}
+		},
+		{
+			"attractionID": "16",
+			"start": "0601",
+			"end": "0913",
+			"hours": {
+				"monday": "7:30AM - 6PM",
+				"tuesday": "7:30AM - 6PM",
+				"wednesday": "7:30AM - 6PM",
+				"thursday": "7:30AM - 6PM",
+				"friday": "7:30AM - 6PM",
+				"saturday": "7:30AM - 6PM",
+				"sunday": "7:30AM - 6PM",
+			}
+		}
+	]
+}
