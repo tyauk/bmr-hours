@@ -1,0 +1,151 @@
+{
+	"attractions": [
+		{
+			"name": "Skiing & Snowboarding",
+			"id": "0",
+			"image": "",
+			"url": "https://www.bluemountain.ca/things-to-do/skiing-and-snowboarding",
+			"season": "winter"
+		},
+		{
+			"name": "Ridge Runner Mountain Coaster",
+			"id": "1",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/5e4dfb5fe3a04fbfbe14a6b83fd8e60d]",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/ridge-runner-coaster",
+			"season": "all"
+		},
+		{
+			"name": "Blue Mountain Private Beach",
+			"id": "2",
+			"image": "https://www.bluemountain.ca/-/media/blue-mountain/custom/2021-08-blue-mountain-beach.jpg",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/blue-mountain-beach",
+			"season": "summer"
+		},
+		{
+			"name": "Open-Air Gondola",
+			"id": "3",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/d19dd0745cec42ee9746cd32139d1949",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/open-air-gondola",
+			"season": "summer"
+		},
+		{
+			"name": "Plunge! Aquatic Centre",
+			"id": "4",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/1570a708b8e9482f9e44384deba64f7e",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/plunge-aquatic-centre",
+			"season": "all"
+		},
+		{
+			"name": "Canopy Climb Net Adventure",
+			"id": "5",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/e1762fb3ce8b415a820de15df4541437",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/canopy-climb",
+			"season": "all"
+		},
+		{
+			"name": "Mill Pond Activity Centre",
+			"id": "6",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/1894ed0048b146ef9ddbe124b08fa4d1",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/mill-pond-activity-centre",
+			"season": "summer"
+		},
+		{
+			"name": "Wind Rider Triple Zips",
+			"id": "7",
+			"image": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/things-to-do/attractions/wind-rider-triple-zips/202206_blue_mountain_ziplining_summer_triple_zips.jpg",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/wind-rider-triple-zips",
+			"season": "summer"
+		},
+		{
+			"name": "Cocoon Crawl Playscape",
+			"id": "8",
+			"image": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/2024-07-04-blue-mountain-cocoon-crawl-40.jpg",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/cocoon-crawl",
+			"season": "summer"
+		},
+		{
+			"name": "Chutes & Loops Ball Run",
+			"id": "9",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/508ad2bce42c43b7b870043b17274697",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/chutes-and-loops-ball-run",
+			"season": "summer"
+		},
+		{
+			"name": "Timber Challenge High Ropes",
+			"id": "10",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/09500e42b66f4fef90b64346362e3de2",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/timber-challenge-high-ropes",
+			"season": "summer"
+		},
+		{
+			"name": "Lumber Lanes Climbing Centre",
+			"id": "11",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/7cf5dae9b73a4c52b27fb53a2298b775",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/lumber-lanes-climbing-centre",
+			"season": "summer"
+		},
+		{
+			"name": "AGORA: Path of Light",
+			"id": "12",
+			"image": "",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/agora",
+			"season": "summer"
+		},
+		{
+			"name": "Cascade Putting Course",
+			"id": "13",
+			"image": "https://www.bluemountain.ca/-/media/widen/blue-mountain-resort/bm-attractions--activities/cascade-putting-course/2017-08-08-bm-cascadeputtingcourse-009-jpg.jpg",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/cascade-putting-course",
+			"season": "summer"
+		},
+		{
+			"name": "Skywalk Challenge High Ropes",
+			"id": "14",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/cbf219fda12442c39b456a5bfb81c0e4",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/skywalk-challenge",
+			"season": "summer"
+		},
+		{
+			"name": "Hiking",
+			"id": "15",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/b787dd1f14d441dca1dd215a3034208c",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/hiking",
+			"season": "summer"
+		},
+		{
+			"name": "Biking",
+			"id": "16",
+			"image": "",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/biking",
+			"season": "summer"
+		},
+		{
+			"name": "Monterra Golf",
+			"id": "17",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/ebdea2672d394c9299d3d11532830e05",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/monterra-golf",
+			"season": "summer"
+		},
+		{
+			"name": "Big Dipper Snow Tubing",
+			"id": "18",
+			"image": "",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/big-dipper-snow-tubing",
+			"season": "winter"
+		},
+		{
+			"name": "Woodview Mountaintop Skating",
+			"id": "19",
+			"image": "",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/woodview-mountaintop-skating",
+			"season": "winter"
+		},
+		{
+			"name": "Snowshoeing",
+			"id": "20",
+			"image": "",
+			"url": "https://www.bluemountain.ca/things-to-do/activities/snowshoe",
+			"season": "winter"
+		}
+	]
+}
