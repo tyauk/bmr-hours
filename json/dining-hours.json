@@ -99,20 +99,6 @@
 			}
 		},
 		{
-			"attractionID": "3",
-			"start": "0612",
-			"end": "0907",
-			"hours": {
-				"monday": "CLOSED",
-				"tuesday": "CLOSED",
-				"wednesday": "CLOSED",
-				"thursday": "CLOSED",
-				"friday": "5PM - 9PM",
-				"saturday": "5PM - 9PM",
-				"sunday": "CLOSED"
-			}
-		},
-		{
 			"attractionID": "4",
 			"start": "0612",
 			"end": "0907",
