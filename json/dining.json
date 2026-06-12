@@ -1,57 +1,71 @@
 {
 	"dining": [
 		{
-			"name": "Summitview Mountaintop BBQ",
+			"name": "Summitview Mountaintop BBQ - Lunch",
 			"id": "0",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/81b1af058ede416995a5aca03edef7b6",
+			"url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/summitview-family-bbq",
+			"season": "summer"
+		},
+		{
+			"name": "Summitview Mountaintop BBQ - Dinner",
+			"id": "1",
 			"image": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/9410582589174e72b8601fb930ec8d09",
 			"url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/summitview-family-bbq",
 			"season": "summer"
 		},
 		{
-			"name": "The Pottery Alpine Restaurant",
-			"id": "1",
+			"name": "The Pottery Alpine Restaurant - Brunch",
+			"id": "2",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/49e596464efc4caa9223a0b60af9f682",
+			"url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/the-pottery-restaurant",
+			"season": "all"
+		},
+		{
+			"name": "The Pottery Alpine Restaurant - Dinner",
+			"id": "3",
 			"image": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/2023-blue-mountain-pottery-menu-19.jpg",
 			"url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/the-pottery-restaurant",
 			"season": "all"
 		},
 		{
 			"name": "Jozo's Bar",
-			"id": "2",
+			"id": "4",
 			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/76adcbdf06e14b06bbaabbc81b5dbb2d",
 			"url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/jozos-bar",
 			"season": "all"
 		},
 		{
 			"name": "Grand Central Eatery",
-			"id": "3",
+			"id": "5",
 			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/8c81b3134dcd4022bb4c79b4d88ecd29",
 			"url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/grand-central-eatery",
 			"season": "all"
 		},
 		{
 			"name": "1858 Caesar Bar",
-			"id": "4",
+			"id": "6",
 			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/f7b7f99441e048d394aa4b71e31abc87",
 			"url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/1858",
 			"season": "all"
 		},
 		{
 			"name": "Death Cookies",
-			"id": "5",
+			"id": "7",
 			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/3d5b3880693449519f38c6b6f7cc0999",
 			"url": "https://www.bluemountain.ca/things-to-do/eateries-and-nightlife/death-cookies",
 			"season": "all"
 		},
 		{
 			"name": "Sanctuary",
-			"id": "6",
+			"id": "8",
 			"image": "/-/media/widen/blue-mountain-resort/bm-attractions--activities/monterra-golf/2020-09-20-bm-monterragolf-0074-jpg.jpg",
 			"url": "https://www.bluemountain.ca/things-to-do/activities/monterra-golf#tab=food-&-drinks",
 			"season": "summer"
 		},
 		{
 			"name": "Starbucks Coffee Co.",
-			"id": "7",
+			"id": "9",
 			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/62b6468d785d4100be2ef0e7f61f7a52",
 			"url": "https://www.starbucks.ca/store-locator/store/75537-60379/blue-mountain-village-156-jozo-weider-blvd-the-blue-mountains-on-l-9-y-3",
 			"season": "all"
