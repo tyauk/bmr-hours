@@ -1,0 +1,74 @@
+{
+	"dining": [
+		{
+			"attractionID": "0",
+			"start": "0612",
+			"end": "0901",
+			"hours": {
+				"monday": "10AM - 7PM",
+				"tuesday": "10AM - 7PM",
+				"wednesday": "10AM - 7PM",
+				"thursday": "10AM - 7PM",
+				"friday": "10AM - 9PM",
+				"saturday": "10AM - 9PM",
+				"sunday": "10AM - 7PM"
+			}
+		},
+		{
+			"attractionID": "1",
+			"start": "0612",
+			"end": "0901",
+			"hours": {
+				"monday": "10AM - 6PM",
+				"tuesday": "10AM - 6PM",
+				"wednesday": "10AM - 6PM",
+				"thursday": "10AM - 6PM",
+				"friday": "10AM - 7PM",
+				"saturday": "10AM - 7PM",
+				"sunday": "10AM - 6PM"
+			}
+		},
+		{
+			"attractionID": "2",
+			"start": "0612",
+			"end": "0901",
+			"hours": {
+				"monday": "10AM - 7PM",
+				"tuesday": "10AM - 7PM",
+				"wednesday": "10AM - 7PM",
+				"thursday": "10AM - 7PM",
+				"friday": "10AM - 9PM",
+				"saturday": "10AM - 9PM",
+				"sunday": "10AM - 7PM"
+			}
+		},
+		{
+			"attractionID": "3",
+			"start": "0612",
+			"end": "0626",
+			"hours": {
+				"monday": "CLOSED",
+				"tuesday": "CLOSED",
+				"wednesday": "CLOSED",
+				"thursday": "CLOSED",
+				"friday": "CLOSED",
+				"saturday": "CLOSED",
+				"sunday": "CLOSED"
+			}
+		},
+		{
+			"attractionID": "3",
+			"start": "0627",
+			"end": "0901",
+			"hours": {
+				"monday": "10AM - 5PM",
+				"tuesday": "10AM - 5PM",
+				"wednesday": "10AM - 5PM",
+				"thursday": "10AM - 5PM",
+				"friday": "10AM - 5PM",
+				"saturday": "10AM - 5PM",
+				"sunday": "10AM - 5PM"
+			}
+		}
+	]
+}
