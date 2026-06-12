@@ -1,0 +1,32 @@
+{
+	"dining": [
+		{
+			"name": "Blue Mountain Supply Co.",
+			"id": "0",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/524fd45402834ec99fb521b89266ab49",
+			"url": "https://www.bluemountain.ca/things-to-do/shopping/blue-mountain-supply-co",
+			"season": "all"
+		},
+		{
+			"name": "Red Devil Sports",
+			"id": "1",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/1bcba5cd8a154181b124355dccf613e0",
+			"url": "https://www.bluemountain.ca/things-to-do/shopping/red-devil-sports",
+			"season": "all"
+		},
+		{
+			"name": "The North Face",
+			"id": "2",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/10bccbdf4459450cac045d1bdc572e74",
+			"url": "https://www.thenorthface.com/en-ca",
+			"season": "all"
+		},
+		{
+			"name": "Blue Basin",
+			"id": "3",
+			"image": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/448127c37ac649dba345c8f6246125f9",
+			"url": "https://www.bluemountain.ca/things-to-do/shopping/blue-basin",
+			"season": "all"
+		}
+	]
+}
